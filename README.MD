@@ -16,10 +16,10 @@ Este projeto é parte do Checkpoint 1 da disciplina SOA e WebServices, e tem com
 ---
 
 ## Integrantes do Grupo
-- Aksel Viktor - RM99011
-- Nome 2 – RMXXXXX
-- Nome 3 – RMXXXXX
-- Nome 4 – RMXXXXX
+- Aksel Viktor Caminha Rae - RM99011
+- Ian Xavier Kuraoka – RM98860
+- Arthur Petrin – RM98735
+- Miguel Ruan de Souza – RM551239
 
 (Mesmo grupo do Challenge)
 
