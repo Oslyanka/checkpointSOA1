@@ -47,5 +47,5 @@ Este projeto é parte do Checkpoint 1 da disciplina SOA e WebServices, e tem com
 ### Passos
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/SEU-USUARIO/autoescola.git
+   git clone https://github.com/Oslyanka/checkpointSOA1.git
    cd autoescola
