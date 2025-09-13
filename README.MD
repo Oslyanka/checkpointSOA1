@@ -41,7 +41,7 @@ Este projeto é parte do Checkpoint 1 da disciplina SOA e WebServices, e tem com
 ## Como Rodar o Projeto
 
 ### Pré-requisitos
-- Java 17+ instalado
+- Java 21
 - Maven (ou usar o mvnw wrapper incluso no projeto)
 
 ### Passos
